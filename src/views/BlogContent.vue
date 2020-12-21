@@ -46,7 +46,7 @@
         <div id="contentAll_0">
            <!-- <div > -->
             <el-alert id="newMsg"
-                title="你有一条新消息"
+                title="你有一条新消息1"
                 type="success"
                 effect="dark">
               </el-alert>
