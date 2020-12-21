@@ -1,0 +1,17 @@
+鼠标变成手：cursor:pointer
+flex布局：
+    display: flex;
+    align-items:center;//左右对齐
+    justify-content:center;//主轴上对齐方式
+    flex-direction:column;//主轴方向
+
+<div class="left">
+            <!-- 个人信息 -->
+            <div class="user_msg"></div>
+            <!-- 最新文章 -->
+            <div class="new_article"></div>
+            <!-- 分类 -->
+            <div class="classify"></div>
+            <!-- 归档 -->
+            <div class="pigeonhole"></div>
+          </div>
